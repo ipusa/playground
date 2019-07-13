@@ -1,6 +1,7 @@
 //input number is 6
 
 //celsiuis button is checked, explain how code runs
+console.log("github")
 
 function myFunc() {
     var input = document.getElementById("textfield").value;
